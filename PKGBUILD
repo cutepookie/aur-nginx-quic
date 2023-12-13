@@ -5,7 +5,7 @@
 # Contributor: Drew DeVault
 
 _pkgbase=nginx
-_commit=f366007dd23a
+_commit=6c8595b77e66
 pkgbase=nginx-quic
 pkgname=(nginx-quic nginx-quic-src)
 pkgver=1.25.4
